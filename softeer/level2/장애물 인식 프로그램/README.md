@@ -4,14 +4,14 @@
 
 #### 문제 설명
 자율주행팀 SW 엔지니어인 당신에게 장애물과 도로를 인식할 수 있는 프로그램을 만들라는 업무가 주어졌다.
-![11](https://github.com/user-attachments/assets/ca9ff0be-923a-41e9-a72a-9a716c01b2e6)
+![11](https://github.com/user-attachments/assets/ca9ff0be-923a-41e9-a72a-9a716c01b2e6)  
 [그림 1] 지도 예시
 
 우선 [그림 1]과 같이 정사각형 모양의 지도가 있다. 1은 장애물이 있는 곳을, 0은 도로가 있는 곳을 나타낸다.
 
 당신은 이 지도를 가지고 연결된 장애물들의 모임인 블록을 정의하고, 불록에 번호를 붙이려 한다. 여기서 연결되었다는 것은 어떤 장애물이 좌우, 혹은 아래위로 붙어 있는 경우를 말한다. 대각선 상에 장애물이 있는 경우는 연결된 것이 아니다.
 
-![22](https://github.com/user-attachments/assets/18fd479c-4f37-4aa2-b16b-a67fdb2f5753)
+![22](https://github.com/user-attachments/assets/18fd479c-4f37-4aa2-b16b-a67fdb2f5753)  
 [그림 2] 블록 별 번호 부여
 
 [그림 2]는 [그림 1]을 블록 별로 번호를 붙인 것이다.
