@@ -5,11 +5,16 @@ public class Main {
 
 		Scanner sc = new Scanner(System.in);
 
-		int A = sc.nextInt();
+		int n = sc.nextInt();
 		sc.close();
 
-		for (int i = 1; i < 10; i++) {
-			System.out.println(A + " * " + i + " = " + A * i);
+		String str = "";
+
+		for (int i = 1; i <= n / 4; i++) {
+			str += "long ";
 		}
+
+		System.out.println(str + "int");
+
 	}
 }
