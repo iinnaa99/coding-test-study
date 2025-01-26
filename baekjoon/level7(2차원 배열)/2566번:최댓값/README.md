@@ -7,6 +7,7 @@
 
 예를 들어, 다음과 같이 81개의 수가 주어지면
 ![Image](https://github.com/user-attachments/assets/6aef1336-28ea-4857-ae0b-cadff0703ab0)
+
 이들 중 최댓값은 90이고, 이 값은 5행 7열에 위치한다.
 
 #### 입력
